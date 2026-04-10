@@ -91,3 +91,7 @@ Il presente disclaimer è regolato dalla legge italiana. Per qualsiasi controver
 - [Circolare INAIL n. 48/2017](https://www.lavoro.gov.it/notizie/Documents/circolare-INAIL-2-novembre-2017-n-48.pdf)
 - D.lgs. 81/2008 (Testo Unico Sicurezza)
 - Legge 81/2017 (Lavoro Agile)
+
+## Licenza
+
+This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
