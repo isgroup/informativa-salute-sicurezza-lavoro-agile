@@ -69,6 +69,22 @@ Per utilizzare subito il template, si consiglia di:
 - `README.md` - Questo file con le informazioni normative
 - `TEMPLATE.md` - Template dell'informativa da personalizzare
 
+## Disclaimer
+
+Il presente template di informativa sulla salute e sicurezza nel lavoro agile è messo a disposizione da **ISGroup SRL** a titolo meramente informativo e operativo.
+
+Il documento è fornito "così com'è" ("as is"), senza alcuna garanzia, espressa o implicita, in merito alla sua completezza, accuratezza, aggiornamento, conformità normativa o idoneità rispetto a specifiche esigenze aziendali o casi concreti.
+
+**ISGroup SRL non assume alcuna responsabilità** per eventuali errori, omissioni o inesattezze contenute nel template, né per qualsiasi danno diretto o indiretto derivante dall'utilizzo, anche parziale, del documento.
+
+L'utilizzo del template **non sostituisce in alcun modo** l'attività di valutazione dei rischi, consulenza legale o assistenza specialistica in materia di salute e sicurezza sul lavoro, che resta di esclusiva competenza del datore di lavoro e dei professionisti incaricati (a titolo esemplificativo: RSPP, consulenti HSE, legali).
+
+Il template deve essere **necessariamente adattato e validato** in funzione delle specifiche caratteristiche organizzative, delle mansioni svolte, delle attrezzature utilizzate e del contesto operativo dell'azienda, nonché verificato dal reparto legale o da consulenti qualificati prima della sua adozione.
+
+ISGroup SRL si riserva la facoltà di modificare, aggiornare o rimuovere i contenuti senza preavviso, senza che ciò comporti alcun obbligo di aggiornamento nei confronti degli utilizzatori.
+
+Il presente disclaimer è regolato dalla legge italiana. Per qualsiasi controversia relativa all'utilizzo del template è competente in via esclusiva il **Foro di Verona**.
+
 ## Riferimenti Utili
 
 - [Gazzetta Ufficiale n. 68 del 23 marzo 2026](https://www.gazzettaufficiale.it/eli/gu/2026/03/23/68/sg/pdf)
